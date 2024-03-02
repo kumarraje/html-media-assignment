@@ -1,0 +1,3 @@
+The DOCTYPE declaration in HTML specifies the version of HTML being used in the document. 
+In HTML5, it's simply <!DOCTYPE html>, placed at the beginning of the document before the <html> tag. 
+It tells the browser how to interpret and render the content of the page correctly.
