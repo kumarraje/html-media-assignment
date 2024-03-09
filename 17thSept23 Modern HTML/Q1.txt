@@ -1,0 +1,22 @@
+Semantic Elements: HTML5 introduced new semantic elements such as <header>, <footer>, <nav>, <article>, <section>, <aside>, etc., 
+which provide better structure and meaning to the content.
+
+Audio and Video Support: HTML5 introduced native support for embedding audio and video content using <audio> and <video> elements, 
+eliminating the need for third-party plugins like Flash.
+
+Canvas: HTML5 introduced the <canvas> element, which allows dynamic, scriptable rendering of 2D shapes and bitmap images. 
+It's commonly used for drawing graphics, animations, and games on the web.
+
+Offline Support: HTML5 introduced features like the Application Cache and Web Storage (localStorage and sessionStorage), 
+enabling web applications to work offline and store data locally.
+
+Improved Forms: HTML5 introduced several new input types (<input type="email">, <input type="date">, <input type="range">, etc.) and 
+attributes (e.g., required, placeholder, pattern) to make form validation and data input easier and more efficient.
+
+Geolocation: HTML5 introduced the Geolocation API, allowing web applications to access the user's geographical location information.
+
+Web Workers: HTML5 introduced the concept of Web Workers, allowing scripts to run in background threads, 
+thus improving performance by offloading tasks from the main execution thread.
+
+Drag and Drop: HTML5 introduced native support for drag and drop interactions, 
+enabling users to drag elements and drop them into designated areas without requiring external libraries or scripts.

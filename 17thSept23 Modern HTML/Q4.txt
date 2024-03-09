@@ -1,0 +1,8 @@
+Semantic HTML Markup: Use appropriate semantic elements like <header>, <nav>, and <footer>. 
+Properly structure headings and lists for clear navigation and understanding.
+
+Accessible Forms: Label form controls clearly with <label> elements. 
+Utilize input types and attributes like required and aria-invalid for improved usability and validation.
+
+Alternative Text for Images: Always provide descriptive alt text (alt attribute) for images. 
+Use empty alt attributes for decorative images and ensure descriptive alt text for images used as links.
